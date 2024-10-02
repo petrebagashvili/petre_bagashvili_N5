@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.mainbox{
+    display: flex;
+    width: 1440px;
+    height: 455px;
+    padding: 152px 0px 151px 0px;
+    justify-content: center;
+    align-items: center;
+    background-color: lightskyblue;
+}
+.box1{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: blue;
+
+}
+.box{
+    width: 288px;
+    height: 288px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
